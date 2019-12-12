@@ -1,1 +1,1 @@
-# Rocketseat BootCamp - Modulo 2
+# Rocketseat BootCamp - Gobarber Backend

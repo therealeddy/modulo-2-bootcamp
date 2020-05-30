@@ -21,3 +21,6 @@ docker ps
 
 # Rodar Docker
 docker start <name>
+
+# Mongo
+docker run --name mongobarber -p 27017:27017 -d -t mongo
